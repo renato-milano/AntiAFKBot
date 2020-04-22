@@ -23,8 +23,8 @@ I am not responsible for a bad use of this software or for damage to your hardwa
 
 Ho sviluppato questo programma per facilitare il drop di Valorant per questo si chiama "GiveMeValorant". 
 
-Il programma è abbastanza semplice, manderà un messaggio personalizzato nella chat dello stremer da te indicato per evitare che Twitch modifichi il tuo stato in "Non al Computer". Una volta seguiti i passaggi non chiudere ne il Browser ne il programma. 
-Il primo messaggio sarà mandato dopo 15-20 secondi dal caricamento della pagina dello stramer, una volta cliccato "Continua" dopo aver fatto l'accesso a Twitch, non sarà necessario fare alcuna altra operazione...evita di modificare qualcosa nella pagina o nel Browser almeno fino all'invio del primo messaggio.
+Il programma è abbastanza semplice, manderà un messaggio personalizzato nella chat dello streamer da te indicato per evitare che Twitch modifichi il tuo stato in "Non al Computer". Una volta seguiti i passaggi non chiudere ne il Browser ne il programma. 
+Il primo messaggio sarà mandato dopo 15-20 secondi dal caricamento della pagina dello streamer, una volta cliccato "Continua" dopo aver fatto l'accesso a Twitch, non sarà necessario fare alcuna altra operazione...evita di modificare qualcosa nella pagina o nel Browser almeno fino all'invio del primo messaggio.
 
 Non sarò responsabile per un uso molesto o illegale del Software, tantomeno sarò responsabile di danni causati dal suo utilizzo.   
 
