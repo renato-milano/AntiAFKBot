@@ -28,7 +28,7 @@ Il primo messaggio sarà mandato dopo 15-20 secondi dal caricamento della pagina
 
 Non sarò responsabile per un uso molesto o illegale del Software, tantomeno sarò responsabile di danni causati dal suo utilizzo.   
 
-Poi oh il programma è in Italiano quindi che cazzo faccio la desc in inglese... GG.
+
 
 
 Poi oh il programma è in Italiano quindi che cazzo faccio la desc in inglese... GG.
